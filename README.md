@@ -3,7 +3,7 @@
 This Android application provides users with access to the latest news articles from various sources using API integration. It features a user-friendly interface, internet connectivity checking, and graceful error handling for a seamless user experience.
 
 # DemoVideo
-![Screenshot_2024-04-08-01-30-30-627_com google android apps photos](https://www.youtube.com/watch?v=qqzCIfZTzac&t=2s)]
+[![News App](https://img.youtube.com/vi/qqzCIfZTzac/0.jpg)](https://www.youtube.com/watch?v=qqzCIfZTzac&t=2s)
 
 ## Features
 
